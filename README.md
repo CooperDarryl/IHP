@@ -1,0 +1,1 @@
+As part of a housing support wordpress website developed for Aldingbourne Trust users, there was a requirement for users to create housing plans online for potential landlords. The IHP interface was created using a custom designed SQL database, HTML, CSS, Bootstrap, Ajax and PHP - Upon completion of all the questions, a user is provided with an IHP (PDF).
